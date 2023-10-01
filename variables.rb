@@ -21,7 +21,7 @@ p $name
 # Instance Variables that can be used inside classes of ruby,
 @age = 23
 p @age
-# Constants that always starts with Upper Case and this type of variables can be able to change its value.
+# Constants that always starts with Upper Case and this type of variables cannot able to change its value.
 NAME = "@icodedreams"
 p "My YT Channel handle is #{NAME}"
 
